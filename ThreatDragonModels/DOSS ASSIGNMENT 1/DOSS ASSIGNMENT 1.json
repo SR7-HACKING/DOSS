@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "DOSS ASSIGNMENT 1",
+    "owner": "Shuhaib"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "IT19366128",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Ms.Laneesha"
+  }
+}
